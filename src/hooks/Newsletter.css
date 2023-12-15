@@ -1,0 +1,27 @@
+@import url('../index.css');
+
+.newsletter input {
+    padding-left: 25px;
+    background: url("./public/mail.svg") no-repeat left;
+    background-size: 20px;
+    background-color: var(--branco);
+    border: 2px solid var(--branco);
+}
+
+.newsletter button,
+input {
+    padding: 10px;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+}
+
+.newsletter button {
+    background-color: var(--amarelo);
+    border: 2px solid var(--amarelo);
+    color: var(--branco);
+    cursor: pointer;
+}
+
+.newsletter button:hover {
+    background-color: var(--amarelo-hover);
+    border: 2px solid var(--amarelo-hover);
+}

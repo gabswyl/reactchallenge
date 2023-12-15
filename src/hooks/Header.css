@@ -1,0 +1,21 @@
+
+
+.header_nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 50px;
+}
+
+.header_nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap: 10px;
+}
+
+
+
+
+

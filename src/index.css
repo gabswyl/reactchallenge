@@ -1,0 +1,13 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+:root {
+    --preto: #202020;
+    --amarelo: #FFCB47;
+    --amarelo-hover: #c49727;
+    --branco: #FFFFFF;
+}

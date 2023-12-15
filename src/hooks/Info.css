@@ -1,0 +1,30 @@
+.info {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 50px;
+    position: relative;
+    gap: 20px;
+}
+
+.info h1 {
+    font-family: 'Elsie Swash Caps', serif;
+    font-size: 5rem;
+}
+
+.info p {
+    font-size: 1.25rem;
+    opacity: 0.5;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.planta {
+    position: absolute;
+    bottom: -55%;
+    left: 30%;
+}
+
+.info_new {
+    gap: 20px;
+}
